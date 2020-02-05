@@ -1,2 +1,2 @@
 # introtowebdev
-class example!
+class example
